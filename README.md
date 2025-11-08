@@ -1,2 +1,2 @@
 # lexuschatbot
-A Rag Agent made using Langchain
+A Rag Agent chatbot made using Langchain similar to Chatgpt but faster and more accuracte
